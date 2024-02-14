@@ -8,7 +8,7 @@ on:
       - main
 #  schedule:
 #    - cron: "*/2 * * * *"
-  workflow_dispatch:
+
 jobs:
    Task:
     runs-on: ubuntu-22.04
